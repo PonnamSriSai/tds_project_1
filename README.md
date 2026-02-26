@@ -48,7 +48,7 @@ Click "Fork" at the top right.
 ### Step 2: Clone Your Fork
 
 ```bash
-git clone https://github.com/PonnamSriSai/tds_project_1.git
+git clone https://github.com/<YOUR_GIT_HUB_USER_NAME>/tds_project_1.git
 cd tds_project_1
 ```
 
@@ -66,10 +66,12 @@ git checkout -b add-my-pr
 
 - Add your profile details at the bottom in the following format:
 
-## Your Name
+```bash
+\#\#\# Ram\(Name)
 - GitHub: https://github.com/your-username
 - IITM Email: your-email@ds.study.iitm.ac.in
 - Short Bio: 1–2 line introduction
+```
 
 ### Step 5: Commit
 
